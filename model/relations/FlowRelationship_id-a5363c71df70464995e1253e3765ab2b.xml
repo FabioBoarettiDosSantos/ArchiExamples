@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wastes"
+    id="id-a5363c71df70464995e1253e3765ab2b">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-394621d42cdb41ab8b7bb6f545e460e8.xml#id-394621d42cdb41ab8b7bb6f545e460e8"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-ad53b74bbea247928e37b524eba8532c.xml#id-ad53b74bbea247928e37b524eba8532c"/>
+</archimate:FlowRelationship>

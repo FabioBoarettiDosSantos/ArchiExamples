@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oxygen"
+    id="id-988c7a901f474c098f32892645ef052e">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-91f056f0a7db4efd978283064ce84f7c.xml#id-91f056f0a7db4efd978283064ce84f7c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-36552f30712f44a9872ad550a1595c72.xml#id-36552f30712f44a9872ad550a1595c72"/>
+</archimate:FlowRelationship>

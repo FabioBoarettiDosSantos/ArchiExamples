@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Object A to C"
+    id="id-251aae5c176c42ddb20f1850cd05d5f1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c65db0e02d6c4a1bac46ecf2a99df7c0.xml#id-c65db0e02d6c4a1bac46ecf2a99df7c0"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1c36a9090fef4379ae5f102b7a88f2c3.xml#id-1c36a9090fef4379ae5f102b7a88f2c3"/>
+</archimate:FlowRelationship>

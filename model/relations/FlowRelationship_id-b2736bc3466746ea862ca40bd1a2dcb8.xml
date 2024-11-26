@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="info. from senses"
+    id="id-b2736bc3466746ea862ca40bd1a2dcb8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b5c8b67868c84a198c5b6f590ee2e7e4.xml#id-b5c8b67868c84a198c5b6f590ee2e7e4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e69160aa73ed4fe094f6a72cad14ed6f.xml#id-e69160aa73ed4fe094f6a72cad14ed6f"/>
+</archimate:FlowRelationship>

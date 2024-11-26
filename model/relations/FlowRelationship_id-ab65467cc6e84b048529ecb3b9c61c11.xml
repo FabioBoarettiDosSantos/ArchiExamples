@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="carbon dioxide"
+    id="id-ab65467cc6e84b048529ecb3b9c61c11">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-394621d42cdb41ab8b7bb6f545e460e8.xml#id-394621d42cdb41ab8b7bb6f545e460e8"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-c92d1e44b99f42adbb9988ef77ff2676.xml#id-c92d1e44b99f42adbb9988ef77ff2676"/>
+</archimate:FlowRelationship>
